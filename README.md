@@ -1,7 +1,5 @@
 ## AM/FMラジオキット [K-210] ##
 
-**R8** mentioned as **2.2KΩ**. But in actual board silk screen marked as **3.3KΩ** and in the components also supplied with 3.3KΩ instead of 2.2KΩ.  
-
 ●構成部品一覧  
 
 抵抗  
@@ -58,4 +56,4 @@ IC：TDA2822(x1)
 
 <img width="1069" height="811" alt="image" src="https://github.com/user-attachments/assets/f30c3469-4199-46af-9173-2e6fd7a654b2" />
 
-
+**R8** mentioned as **2.2KΩ**. But in actual board silk screen marked as **3.3KΩ** and in the components also supplied with 3.3KΩ instead of 2.2KΩ.  
