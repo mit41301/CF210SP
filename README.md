@@ -1,5 +1,7 @@
 ## AM/FMラジオキット [K-210] ##
 
+**R8** mentioned as **2.2KΩ**. But in actual board silk screen marked as **3.3KΩ** and in the components also supplied with 3.3KΩ instead of 2.2KΩ.  
+
 ●構成部品一覧  
 
 抵抗  
