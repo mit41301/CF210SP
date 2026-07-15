@@ -1,5 +1,9 @@
 ## AM/FMラジオキット [K-210] ##
 
+Instead of single IC with both AM and FM, uses separate FM and AM receiver IC. Both AM and FM are providing MONO audio output.
+The audio amplifier used is TDA2822M.  FM demodulation done by CD9088 and AM demodulation by TA7642.  
+
+
 ●構成部品一覧  
 
 抵抗  
